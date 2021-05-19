@@ -7,7 +7,7 @@ namespace pandemic
 {
 enum class City
 {
-    Algiers,
+    Algiers = 0,
     Atlanta,
     Baghdad,
     Bangkok,
